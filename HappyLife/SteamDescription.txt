@@ -1,71 +1,73 @@
-优生优育，拒绝蛐蛐。反馈bug还是去贴吧，Steam这留言真tm难用。/p/8054902346
-目前功能，括号里是怎么设置来恢复原游戏设定：
-不生蛐蛐（设为关闭无效）
-调整敌我回血速度（设为100%无效）
-调整武器磨损速度（设为100%无效）
-调整建筑上限（设为0无效）
-消息使用次数无限（设为关闭无效）
-禁止村民入魔（设为关闭无效）
-调整全世界入魔速度（设为100%无效）
-获取的资源加倍（设为1无效）
-村民不紊乱（设为关闭无效）
-存档备份（设为7无效）
-解锁支持度（设为关闭无效）
-解锁商人（设为关闭无效）
-村民/太吾不会掉健康（设为关闭无效）
-全世界无精纯（设为关闭无效）
-太吾交媾必中靶（设为关闭无效）
-太吾岁数不涨（设为关闭无效）
-无限同道数量（设为关闭无效）
-可向任何人表白（设为关闭无效）
-显示儿童魅力（设为关闭无效）
-显示遮面魅力（设为关闭无效）
-解锁商人物品页（设为关闭无效）
-配偶人数不限（设为关闭无效）
-建造自然资源（设为关闭无效）注：且可升级
-无限结义人数（设为关闭无效）
-修改表白公式（设为关闭无效）注：不保证成功
-太吾同性怀孕（设为关闭无效）
-彻底防止NTR太吾（设为关闭无效）注：必须开启修改表白公式！
-隐藏杀相枢选项（设为关闭无效）注：隐藏击败入魔人后补刀的选项
-可以踢出婴儿（设为关闭无效）
-事件无视已婚（设为关闭无效）注：比武招亲等
-保持童贞（设为关闭无效）注：已经破了的会修复
-战斗难度覆盖（设为关闭无效）注：不影响存档
-取消过月降好感（设为关闭无效）
-无不道德声誉（设为关闭无效）
-无消耗恩义事件（设为关闭无效）
-巢穴有默认收益（设为关闭无效）注：监管获得1000-2000声望
-允许任意做媒（设为关闭无效）注：男媒女妁无限制（依然需要亲密的好感）
-太吾子女上限（设为-1无效）
-NPC子女上限（设为-1无效）
-工作提升技能概率（设为0无效）
-村民招募性别（设为随机无效）
-村民招募外貌下限（设为随机无效）
-村民招募立场（设为随机无效）
-解锁参考书栏位（设为关闭无效）
-太吾无怀孕CD（设为关闭无效）
-太吾子女性别（设为随机无效）
-其他人子女性别（设为随机无效）
-提高造诣加成（设为关闭无效）
-快速长大到X岁（设为0无效）
-父母栏有亲生父母（设为关闭无效）
-运转内功增加属性（设为关闭无效）
-门派可有所有性别（设为关闭无效）
-取消过月降心情（设为关闭无效）
-禁止过继子女（设为关闭无效）
-运转内功加属性（设为关闭无效）
-读九品书加资质（设为关闭无效）
-结婚奇遇无视已婚（设为关闭无效）
-同性交媾怀孕方（设为随机无效）
-禁止欠恩施义（设为关闭无效）
-取消部分支持花费（设为关闭无效）注：仅取消地区恩义和历练，但是仍然需要达到
-背恩绝情离婚（设为关闭无效）
+Have better children, build better families, and skip the cricket nonsense. For bug reports, please use Tieba; Steam comments are a pain to use. /p/8054902346
 
-修复了第二个以后的妻子不跟自己姓的问题，这个本身是游戏自己的限制，我给他改了，但是可能以后更新会有问题，建议每次游戏更新以后备份一下存档。
+Current features, with the setting that restores vanilla behavior shown in parentheses:
 
-开了无限表白、结婚、结义但是不能结义、表白、结婚的有可能是游戏文件损坏，建议验证完整性。并删除save目录下的modsettings，或重启游戏再试
+No cricket births (turn off to disable)
+Adjust ally/enemy health recovery speed (set to 100% to disable)
+Adjust weapon wear speed (set to 100% to disable)
+Adjust building limit (set to 0 to disable)
+Unlimited message uses (turn off to disable)
+Prevent villagers from becoming Xiangshu-corrupted (turn off to disable)
+Adjust worldwide Xiangshu corruption speed (set to 100% to disable)
+Multiply gained resources (set to 1 to disable)
+No villager qi disorder (turn off to disable)
+Save backups (set to 7 to disable)
+Unlock support limit (turn off to disable)
+Unlock merchants (turn off to disable)
+Villagers/Taiwu do not lose health (turn off to disable)
+No worldwide purity difference (turn off to disable)
+Taiwu always conceives during intimacy (turn off to disable)
+Stop Taiwu from aging (turn off to disable)
+Unlimited companion count (turn off to disable)
+Confess to anyone (turn off to disable)
+Show child charm (turn off to disable)
+Show charm while masked (turn off to disable)
+Unlock merchant item pages (turn off to disable)
+Unlimited spouse count (turn off to disable)
+Build natural resources (turn off to disable). Note: these can also be upgraded.
+Unlimited sworn sibling count (turn off to disable)
+Modify the confession formula (turn off to disable). Note: success is not guaranteed.
+Taiwu same-sex pregnancy (turn off to disable)
+Strictly protect Taiwu from NTR (turn off to disable). Note: Fix Confession Formula must be enabled.
+Hide the Xiangshu-kill option (turn off to disable). Note: hides the option to finish off a corrupted person after defeating them.
+Babies can be kicked out (turn off to disable)
+Events ignore existing marriages (turn off to disable). Note: includes martial contests for marriage and similar events.
+Remain chaste (turn off to disable). Note: already-lost chastity will be restored.
+Override combat difficulty (turn off to disable). Note: does not affect save data.
+Cancel monthly favor loss (turn off to disable)
+No immoral reputation penalties (turn off to disable)
+No favor-debt spending events (turn off to disable)
+Nests have default income (turn off to disable). Note: supervision grants 1000-2000 prestige.
+Allow matchmaking with anyone (turn off to disable). Note: matchmaking has no restrictions, but close favorability is still required.
+Taiwu child limit (set to -1 to disable)
+NPC child limit (set to -1 to disable)
+Chance for work to improve skills (set to 0 to disable)
+Villager recruitment sex (set to Random to disable)
+Minimum villager recruitment appearance (set to Random to disable)
+Villager recruitment moral stance (set to Random to disable)
+Unlock reference book slots (turn off to disable)
+No Taiwu pregnancy cooldown (turn off to disable)
+Taiwu child sex (set to Random to disable)
+Other characters' child sex (set to Random to disable)
+Improve attainment bonus (turn off to disable)
+Quickly grow to age X (set to 0 to disable)
+Parent list includes blood parents (turn off to disable)
+Attributes increase by running internal arts (turn off to disable)
+Sects can include all sexes (turn off to disable)
+Cancel monthly mood loss (turn off to disable)
+Disable stepchildren (turn off to disable)
+Attributes increase by running internal arts (turn off to disable)
+Reading grade-9 books increases aptitudes (turn off to disable)
+Marriage adventures ignore existing marriages (turn off to disable)
+Same-sex pregnancy carrier (set to Random to disable)
+Prevent favor debt (turn off to disable)
+Remove some support costs (turn off to disable). Note: only removes local favor and experience costs; the requirements must still be met.
+Betrayal divorce (turn off to disable)
 
-如果想要及时反馈的，可以加我的qq群：657760393
+Fixed an issue where the second and later wives did not take your surname. This was originally a game limitation that I changed, but future updates may cause issues. I recommend backing up your save after every game update.
 
-此项目已经开源于：https://github.com/kkle1994/HappyLife
+If unlimited confession, marriage, or sworn siblings are enabled but you still cannot swear siblinghood, confess, or marry, the game files may be damaged. Try verifying file integrity. You can also delete modsettings under the save directory, or restart the game and try again.
+
+For quicker feedback, you can join my QQ group: 657760393
+
+This project is open source at: https://github.com/kkle1994/HappyLife

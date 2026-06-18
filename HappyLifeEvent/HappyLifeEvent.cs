@@ -1,4 +1,4 @@
-﻿using ConchShip.EventConfig.Taiwu;
+using ConchShip.EventConfig.Taiwu;
 using GameData.Domains;
 using GameData.Domains.Character;
 using GameData.Domains.Mod;
@@ -112,7 +112,7 @@ namespace HappyLifeEvent
         }
 
         /// <summary>
-        /// 允许任意做媒
+        /// Allow matchmaking with anyone.
         /// </summary>
         [HarmonyPatch(typeof(TaiwuEvent_bad63f08115a45aa970cfa203dd85e2b), "OnOption24VisibleCheck")]
         public class OnOption22VisibleCheckPatch
